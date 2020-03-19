@@ -1,0 +1,31 @@
+<resources>
+    <string-array name="profiles">
+        <item>Select One</item>
+        <item>FORMAT_String</item>
+        <item>FORMAT_UINT8</item>
+        <item>FORMAT_UINT16</item>
+        <item>FORMAT_UINT32</item>
+        <item>FORMAT_SINT8</item>
+        <item>FORMAT_SINT16</item>
+        <item>FORMAT_SINT32</item>
+        <item>FORMAT_FLOAT</item>
+        <item>FORMAT_SFLOAT</item>
+    </string-array>
+    <string name="app_name">And Gate</string>
+    <string name="connectBT">Connect to Bluetooth</string>
+    <string name="btNotConnectedHint">Bluetooth is not connected.\nTap the button above to connect.</string>
+    <string name="blueUnav">Bluetooth is not available on this device.</string>
+    <string name="blueNotOnPromt">Bluetooth is off. Turn it on?</string>
+    <string name="noPaired">No paired device found.</string>
+    <string name="selectBT">Select the BT device.</string>
+    <string name="selectDev">Select a device:</string>
+    <string name="conFailed">Connection Failed.</string>
+    <string name="connecting">Connecting&#8230;</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="conOK">Connected!</string>
+    <string name="conOkMsg">Bluetooth device is connected successfully.\nTap the button above to disconnect.</string>
+    <string name="disconnecting">Disconnecting&#8230;</string>
+    <string name="profile">Profile:</string>
+    <string name="gatt_read_failed">GATT Read Failed.</string>
+    <string name="monitorHint">Data will appear here.\n</string>
+</resources>
